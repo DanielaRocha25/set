@@ -1,5 +1,5 @@
 # set
-A estrutura escolhida foi o hashing set que permite fazer a inserção, remoção e busca numa média de tempo de O(1). Como tem um tempo constante é mais eficiente se implementa-se uma arvore AVL que teria complexidade de O(log n).
+A estrutura escolhida foi o hashing set que permite fazer a inserção, remoção e busca numa média de tempo de O(1). Como tem um tempo constante é mais eficiente do que se implementa-se uma arvore AVL que teria complexidade de O(log n).
 
 Inserção:
 Complexidade de Tempo: Média: O(1). Na pior das hipóteses pode se tornar O(n).
