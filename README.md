@@ -14,13 +14,13 @@ Complexidade de Tempo: Média é O(1).
 Complexidade de Espaço: O(1), pois não envolve aumento permanente no uso de memória.
 
 União:
-Complexidade de Tempo: O(len(s1) + len(s2)) onde s1 e s2 são dois conjuntos.
+Complexidade de Tempo: O(len(s1) + len(s2)) onde len de s1 e s2 representa o tamanho de cada conjunto.
 Complexidade de Espaço: O(len(s1) + len(s2))
 
 Interseção:
-Complexidade de Tempo: O(min(len(s1), len(s2))) onde s1 e s2 são dois conjuntos.
+Complexidade de Tempo: O(min(len(s1), len(s2))) onde len de s1 e s2 representa o tamanho de cada conjunto.
 Complexidade de Espaço: O(min(len(s1), len(s2)))
 
 Diferença:
-Complexidade de Tempo: O(len(s1)), onde s1 é o tamanho do conjunto do qual você está subtraindo elementos.
+Complexidade de Tempo: O(len(s1)), onde len de s1 é o tamanho do conjunto do qual você está subtraindo elementos.
 Complexidade de Espaço: O(len(s1))
